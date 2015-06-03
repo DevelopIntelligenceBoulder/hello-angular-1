@@ -17,4 +17,4 @@ Via a directive: As a directive a new HTML tag is created `<di-hello></di-hello>
 2. Run `npm start` to get the application running on the web server
     * Packages needed for this application will be installed (i.e. Angular and Express)
     * The Node/Express Web Server will start
-4. Go to http://localhost:8080 in your web browser
+4. Go to `http://localhost:8080` in your web browser
