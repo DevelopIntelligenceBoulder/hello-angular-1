@@ -5,13 +5,14 @@
       .controller('AppController', AppController);
 
     /** 
-     * Controller for the application.
+     * Main Controller for the application.
      **/
     function AppController() {
 
         //Saving the this reference
         var ap = this;
 
+        //Adding a property to the Controller instance
         ap.place = 'World';
     }
 
