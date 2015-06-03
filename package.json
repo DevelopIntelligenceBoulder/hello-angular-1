@@ -1,0 +1,18 @@
+{
+  "name": "hello-angular-1",
+  "version": "0.0.1",
+  "description": "Angular 1.x Hello World",
+  "dependencies": {
+    "angular": "^1.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevelopIntelligenceBoulder/hello-angular-1.git"
+  },
+  "author": "Kamren Zorgdrager <kamrenz@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/DevelopIntelligenceBoulder/hello-angular-1"
+}
