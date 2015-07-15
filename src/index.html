@@ -8,8 +8,11 @@
 		<!-- With Angular template -->
 		<h1>Hello {{ac.place}}</h1>
 		
-		<!-- With Angular directive -->
+		<!-- With Angular element directive -->
 		<di-hello place="{{ac.place}}"></di-hello>
+
+		<!-- With Angular attribute directive -->
+		<div di-hello place="{{ac.place}}"></div>
 
 		<script src="/node_modules/angular/angular.js"></script>
 		<script src="js/main.js"></script>

@@ -10,7 +10,7 @@
     function diHello() {
     	//Directive definition object
     	return {
-    		restrict: 'E',
+    		restrict: 'EA',
     		scope: {
     			place: '@'
     		},
