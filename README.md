@@ -1,7 +1,7 @@
 # hello-angular-1
 A simple example of Hello World in [Angular 1.x](https://angularjs.org/) syntax. Are you looking for an example of what this looks like in [Angular 2](https://github.com/DevelopIntelligenceBoulder/hello-angular-2)?
 
-##What is this?
+##What is this? 
 This example shows how to take a model property defined in a Controller and populate it within an Angular view. 
 
 ###Within the application-controller.js
